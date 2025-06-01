@@ -55,4 +55,8 @@ This file contains:
 - Scaled numerical features
 - Outliers removed
 
+### 📊 Outlier Detection (Boxplot for Fare)
+
+![Fare Boxplot](fare_boxplot.png)
+
 
