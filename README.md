@@ -43,10 +43,4 @@ The goal of this task is to clean and preprocess raw data to make it suitable fo
 
 ---
 
-## 📎 Submission Info
-
-This task was completed as part of the **AI & ML Internship**.
-Final output submitted via Google Form.
-
----
 
