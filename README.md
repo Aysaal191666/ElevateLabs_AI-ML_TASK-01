@@ -10,7 +10,7 @@ The goal of this task is to clean and preprocess raw data to make it suitable fo
 ## 📁 Dataset
 - **Name**: Titanic Dataset
 - **Source**: [Kaggle Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
-- **File Used**: `titanic.csv`
+- **File Used**: `Titanic-Dataset.csv`
 
 ---
 
@@ -42,5 +42,17 @@ The goal of this task is to clean and preprocess raw data to make it suitable fo
 - scikit-learn
 
 ---
+
+## 📎 Result
+
+The final cleaned dataset has been saved as a CSV file:
+
+📄 **`cleaned-titanic.csv`**
+
+This file contains:
+- No missing values
+- Encoded categorical features
+- Scaled numerical features
+- Outliers removed
 
 
